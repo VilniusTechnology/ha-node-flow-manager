@@ -116,6 +116,14 @@ Once installed, you need to add the integration to Home Assistant.
 2.  The sensor state shows the latest debug message.
 3.  The `history` attribute contains the last 20 debug messages with timestamps and node IDs.
 
+
+### Force Update / Refresh
+To manually force an update of the flows (e.g., after adding a new flow in Node-RED):
+1.  Navigate to **Settings** > **Devices & Services**.
+2.  Select the **Node-RED Flow Manager** integration.
+3.  Click on the **Node-RED Service** device.
+4.  Press the **Refresh Flows** button.
+
 ### Automation Example
 You can now use these switches in Home Assistant automations!
 
