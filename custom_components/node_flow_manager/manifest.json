@@ -1,0 +1,12 @@
+{
+  "domain": "node_flow_manager",
+  "name": "Node-RED Flow Manager",
+  "codeowners": [],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/VilniusTechnology/node-flow-manager",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/VilniusTechnology/node-flow-manager/issues",
+  "requirements": [],
+  "version": "1.3.0"
+}
