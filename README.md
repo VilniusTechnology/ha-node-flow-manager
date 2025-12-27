@@ -47,7 +47,7 @@ Installing via Home Assistant Community Store (HACS) ensures you get automatic u
 2.  **Add Custom Repository**:
     *   Click the **three dots** (menu) in the top-right corner.
     *   Select **Custom repositories**.
-    *   **Repository URL**: `https://github.com/your-username/node-flow-manager`  *(Replace with the actual URL of this repo)*
+    *   **Repository URL**: `https://github.com/VilniusTechnology/node-flow-manager`  *(Replace with the actual URL of this repo)*
     *   **Category**: Select **Integration**.
     *   Click **Add**.
 3.  **Install**:
