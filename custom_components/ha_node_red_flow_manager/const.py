@@ -1,6 +1,6 @@
 """Constants for the Node-RED Flow Manager integration."""
 
-DOMAIN = "node_flow_manager"
+DOMAIN = "node_red_flow_manager"
 
 CONF_FLOW_ID = "flow_id"
 CONF_FLOW_NAME = "flow_name"

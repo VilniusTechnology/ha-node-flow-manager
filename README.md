@@ -62,11 +62,11 @@ Installing via Home Assistant Community Store (HACS) ensures you get automatic u
 1.  **Download**: Download the `node-flow-manager` zip or clone the repository.
 2.  **Copy Files**:
     *   Locate the `custom_components` folder in your Home Assistant configuration directory (usually `/config/`).
-    *   Copy the `custom_components/node_flow_manager` folder from this project into your HA `custom_components` folder.
+    *   Copy the `custom_components/node_red_flow_manager` folder from this project into your HA `custom_components` folder.
     *   Directory structure should look like:
         ```
-        /config/custom_components/node_flow_manager/__init__.py
-        /config/custom_components/node_flow_manager/manifest.json
+        /config/custom_components/node_red_flow_manager/__init__.py
+        /config/custom_components/node_red_flow_manager/manifest.json
         ...
         ```
 3.  **Restart**: Restart Home Assistant.
@@ -160,7 +160,7 @@ To remove the integration:
         *   Find **Node-RED Flow Manager**.
         *   Click the three dots and select **Remove**.
     *   **If installed manually**:
-        *   Delete the `custom_components/node_flow_manager` directory from your configuration folder.
+        *   Delete the `custom_components/node_red_flow_manager` directory from your configuration folder.
 3.  **Restart**: Restart Home Assistant.
 
 ---
