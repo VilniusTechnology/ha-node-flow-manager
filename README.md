@@ -3,7 +3,7 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 
 
-[![Validate HACS](https://github.com/VilniusTechnology/ha-node-flow-manager/actions/workflows/validate.yaml/badge.svg)](https://github.com/VilniusTechnology/ha-node-flow-manager/actions/workflows/validate.yaml)
+[![Validate HACS](https://github.com/VilniusTechnology/ha-node-red-flow-manager/actions/workflows/validate.yaml/badge.svg)](https://github.com/VilniusTechnology/ha-node-red-flow-manager/actions/workflows/validate.yaml)
 
 <a href="https://buymeacoffee.com/vilnius.technology" target="_blank"><img src="https://img.shields.io/badge/donate-%E2%98%95buy_me_a_coffee-yellow.svg?style=for-the-badge" alt="Buy Me A Coffee"></a>
 
@@ -49,7 +49,7 @@ Installing via Home Assistant Community Store (HACS) ensures you get automatic u
 2.  **Add Custom Repository**:
     *   Click the **three dots** (menu) in the top-right corner.
     *   Select **Custom repositories**.
-    *   **Repository URL**: `https://github.com/VilniusTechnology/ha-node-flow-manager`
+    *   **Repository URL**: `https://github.com/VilniusTechnology/ha-node-red-flow-manager`
     *   **Category**: Select **Integration**.
     *   Click **Add**.
 3.  **Install**:
